@@ -28,7 +28,7 @@ JChainX is a lightweight blockchain implementation built with Spring Boot and Ja
 
 ## 📋 Prerequisites
 
-- Java JDK 11 or higher
+- Java JDK 21 
 - Maven 3.6+
 - Git
 
